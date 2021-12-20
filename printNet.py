@@ -1,3 +1,4 @@
+# https://stackoverflow.com/questions/60703735/how-to-show-all-the-names-of-caffe-layers-in-python
 import sys
 import caffe
 sys_path = '/da-faster-rcnn/models/da_faster_rcnn'
